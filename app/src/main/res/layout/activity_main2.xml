@@ -52,6 +52,7 @@
         android:layout_marginStart="96dp"
         android:layout_marginTop="384dp"
         android:text="Экспресс сбор и получение проб"
+        android:textColor="#000000"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
