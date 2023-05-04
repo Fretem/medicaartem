@@ -46,10 +46,11 @@
         android:layout_height="56dp"
         android:text="Далее"
         android:textColor="#C9D4FB"
+        android:textColorLink="#C9D4FB"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="328dp"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="328dp" />
 
     <TextView
         android:id="@+id/textView18"
