@@ -14,6 +14,7 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="52dp"
         android:width="111px"
+        android:onClick="run"
         android:text="Пропустить"
         android:textColor="#57A9FF"
         android:textFontWeight="600"
