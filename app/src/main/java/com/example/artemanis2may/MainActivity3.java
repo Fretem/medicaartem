@@ -19,5 +19,8 @@ public class MainActivity3 extends AppCompatActivity {
         Intent intent=new Intent(MainActivity3.this, MainActivity4.class);
         startActivity(intent);
     }
-
+    public void rundalee(View v) {
+        Intent intent=new Intent(MainActivity3.this, MainActivity4.class);
+        startActivity(intent);
+    }
 }
