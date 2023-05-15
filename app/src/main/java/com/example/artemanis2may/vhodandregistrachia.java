@@ -17,4 +17,8 @@ public class vhodandregistrachia extends AppCompatActivity {
         Intent intent=new Intent(vhodandregistrachia.this, yandex.class);
         startActivity(intent);
     }
+    public void run1(View v) {
+        Intent intent=new Intent(vhodandregistrachia.this, Parol.class);
+        startActivity(intent);
+    }
 }
