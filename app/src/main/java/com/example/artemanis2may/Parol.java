@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 public class Parol extends AppCompatActivity {
 
@@ -19,15 +20,24 @@ public class Parol extends AppCompatActivity {
         Intent intent=new Intent(Parol.this, karta.class);
         startActivity(intent);
     }
-   // Button one = (Button) findViewById(R.id.button3) ;
-    //Button two = (Button) findViewById(R.id.button4) ;
-   // Button fore = (Button) findViewById(R.id.button10) ;
-   // Button five = (Button) findViewById(R.id.button6)  ;
-   // Button six = (Button) findViewById(R.id.button7) ;
-   // Button seven = (Button) findViewById(R.id.button8) ;
-  //  Button eight = (Button) findViewById(R.id.button12) ;
-  //  Button nine = (Button) findViewById(R.id.button9);
-   // Button zero = (Button) findViewById(R.id.button11);
+    //ImageButton one = (ImageButton) findViewById(R.id.imageButton3) ;
+    //ImageButton two = (ImageButton) findViewById(R.id.imageButton4) ;
+    //ImageButton three = (ImageButton) findViewById(R.id.imageButton5) ;
+    //ImageButton fore = (ImageButton) findViewById(R.id.imageButton10) ;
+    //ImageButton five = (ImageButton) findViewById(R.id.imageButton6) ;
+    //ImageButton six = (ImageButton) findViewById(R.id.imageButton7) ;
+    //ImageButton seven = (ImageButton) findViewById(R.id.imageButton8) ;
+    //ImageButton eight = (ImageButton) findViewById(R.id.imageButton12) ;
+    //ImageButton nine = (ImageButton) findViewById(R.id.imageButton9) ;
+    //ImageButton zero = (ImageButton) findViewById(R.id.imageButton11) ;
+
+
+
+
+
+
+
+
 
 
 }
